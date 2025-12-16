@@ -1,8 +1,11 @@
+html{
+  font-size: 62.5%;
+}
 .mom {
   margin-left: 10px;
 }
 .Dad {
-  height: 600px;
+  height: 700px;
   width: 600px;
   background-color: aliceblue;
   overflow: auto;
@@ -13,7 +16,7 @@
     rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
 }
 p {
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   font-family: "BBH Bogle", sans-serif;
 }
 .mom {
@@ -23,7 +26,7 @@ h2 {
   position: sticky;
   color: black;
   background-color: pink;
-  font-size: 1.8rem;
+  font-size: 2rem;
   top: 0;
   counter-increment: Giatri;
   counter-reset: Yeuem;
