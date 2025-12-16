@@ -1,0 +1,47 @@
+html {
+  font-size: 62.5%;
+  background-color: rgb(155, 152, 152);
+}
+
+.parent {
+  background-color: white;
+  font-size: 2rem;
+  display: flex;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 60px;
+  justify-content: space-evenly;
+  border: 3px solid;
+}
+.box {
+  color: rgb(19, 18, 18);
+  padding: 20px;
+  text-decoration: none;
+  font-family: "Trade Winds", system-ui;
+  text-shadow: 0px 0px 16px rgba(0, 0, 0, 0.88);
+}
+.child {
+  margin-top: 10px;
+}
+
+#line-1 {
+  color: #f11924;
+}
+#line-2 {
+  color: #01659f;
+}
+#line-5 {
+  color: #f8931d;
+}
+#line-6 {
+  color: #dfdc3b;
+}
+#line-7 {
+  color: #29be85;
+}
+.mom {
+  margin-left: 10px;
+}
+/* 

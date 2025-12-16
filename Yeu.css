@@ -1,0 +1,30 @@
+html {
+  font-size: 62.5%;
+  background-color: rgb(155, 152, 152);
+}
+.Yeu{
+    height: 300px;
+    width: 400px;
+    position: absolute;  
+}
+.Yeu1{
+    width: 300px;
+    height: 270px;
+    top: 10rem;
+    left: 65rem;
+}
+.Yeu2{
+    
+    top: 7rem;
+    left: 100rem;
+}
+.Yeu3{
+    
+    top: 40rem;
+    left: 110rem;
+}
+.Yeu4{
+    
+    top: 40rem;
+    left: 65rem;
+}
